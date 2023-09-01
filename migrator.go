@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"strings"
 
-	"gorm.io/gorm"
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/migrator"
-	"gorm.io/gorm/schema"
+	"github.com/hhniao/gorm"
+	"github.com/hhniao/gorm/clause"
+	"github.com/hhniao/gorm/migrator"
+	"github.com/hhniao/gorm/schema"
 )
 
 const indexSql = `

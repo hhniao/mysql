@@ -3,6 +3,6 @@ module github.com/hhniao/mysql
 go 1.14
 
 require (
-	github.com/go-sql-driver/mysql v1.7.0
-	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
+	github.com/go-sql-driver/mysql v1.7.1
+	github.com/hhniao/gorm v0.0.2
 )
