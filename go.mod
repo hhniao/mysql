@@ -1,4 +1,4 @@
-module gorm.io/driver/mysql
+module github.com/hhniao/mysql
 
 go 1.14
 
